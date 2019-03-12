@@ -27,3 +27,6 @@ Berikut adalah soal No.2.3 Tes Kemampuan Mengungkapkan Pendapat
 Berikut adalah soal No.2.4 Pengetahuan Tambahan
 
 <img src="https://github.com/codedadu/Quiz-PPBD/blob/master/res/img/soal_2.4.PNG"/>
+
+Soal ini dibuat berdasarkan kegiatan PPDB, dan akan dijadikan sebuah standar dasar untuk calon peserta didik, yaitu pada test tulis ini, siswa akan diuji dengan sesuai kemampuannya.
+Last Update 12 Maret 2019
