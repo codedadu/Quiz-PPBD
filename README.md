@@ -23,3 +23,7 @@ Berikut adalah soal No.2.2 Selesaikanlah soal dibawah ini
 Berikut adalah soal No.2.3 Tes Kemampuan Mengungkapkan Pendapat
 
 <img src="https://github.com/codedadu/Quiz-PPBD/blob/master/res/img/soal_2.3.PNG"/>
+
+Berikut adalah soal No.2.4 Pengetahuan Tambahan
+
+<img src="https://github.com/codedadu/Quiz-PPBD/blob/master/res/img/soal_2.4.PNG"/>
