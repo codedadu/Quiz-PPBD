@@ -1,4 +1,4 @@
-# Quiz PPDB (Penerimaan Peserta Didik Baru) SMK Islam Rabbaanii
+# Quiz PPDB SMK Islam Rabbaanii
 Berikut adalah soal-soal yang disediakan untuk uji test tertulis dengan logika dasar yang akan dijadikan sebuah patokan untuk melihat potensi siswa, serta minat peserta didik terhadap konsentrasi jurusan di SMK Islam Rabbaanii
 
 ### Soal #1: Logika Keputusan
